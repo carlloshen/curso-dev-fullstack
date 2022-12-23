@@ -14,6 +14,3 @@
   <li>NODE</li>
   <li>REACT</li>
 </ul>
-
-
-<img src="[https://drive.google.com/file/d/1Oyt_DJPsdZBeBEjKsvPwGvdIvL26ng6r/view?usp=share_link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifs.eco.br%2Fgifs-de-among-us%2F&psig=AOvVaw1ySub9bbZKL4XrkqpnHl7W&ust=1671921326038000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLjHwLfmkPwCFQAAAAAdAAAAABAE)"/>
