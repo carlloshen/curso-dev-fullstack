@@ -16,4 +16,4 @@
 </ul>
 
 
-![https://drive.google.com/file/d/1Oyt_DJPsdZBeBEjKsvPwGvdIvL26ng6r/view?usp=share_link](name-of-giphy.gif)
+<img src="https://drive.google.com/file/d/1Oyt_DJPsdZBeBEjKsvPwGvdIvL26ng6r/view?usp=share_link"/>
