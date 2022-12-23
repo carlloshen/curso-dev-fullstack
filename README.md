@@ -9,7 +9,7 @@
 <ul>
   <li>HTML</li>
   <li>CSS</li>
-  <li><SASS/li>
+  <li>SASS</li>
   <li>JAVASCRIPT</li>
   <li>NODE</li>
   <li>REACT</li>
