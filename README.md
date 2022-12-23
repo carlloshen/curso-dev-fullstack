@@ -4,7 +4,7 @@
 </p>
 
 
-<p>Curso voltado desde o inicio, desde html simples até Js avançado, visando a formação fullstack com as tecnologias a seguir</p>
+<p>Curso voltado desde o inicio, desde html simples até Js avançado, visando a formação fullstack com as tecnologias a seguir:</p>
 
 <ul>
   <li>HTML</li>
