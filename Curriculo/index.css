@@ -18,7 +18,7 @@ a {
 }
 .cabecalho {
   margin-top: -15px;
-  height: 25rem;
+  height: 22rem;
   text-align: center;
 }
 
@@ -76,7 +76,7 @@ h4 {
 }
 
 #content {
-  width: 100%;
+  max-width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -113,4 +113,14 @@ footer > p{
 .secoes > p {
   margin-top: 0;
   padding-left: 20px;
+}
+
+@media screen and (min-width: 768px){
+  #content{
+    padding:0 200px ;
+    margin-bottom: 30px;
+  }
+  
+  
+  
 }
